@@ -1,0 +1,15 @@
+C:\C#\HashFunction\bin\Debug\net6.0\HashFunction.exe
+C:\C#\HashFunction\bin\Debug\net6.0\HashFunction.deps.json
+C:\C#\HashFunction\bin\Debug\net6.0\HashFunction.runtimeconfig.json
+C:\C#\HashFunction\bin\Debug\net6.0\HashFunction.dll
+C:\C#\HashFunction\bin\Debug\net6.0\ref\HashFunction.dll
+C:\C#\HashFunction\bin\Debug\net6.0\HashFunction.pdb
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.csproj.AssemblyReference.cache
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.AssemblyInfoInputs.cache
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.AssemblyInfo.cs
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.csproj.CoreCompileInputs.cache
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.dll
+C:\C#\HashFunction\obj\Debug\net6.0\ref\HashFunction.dll
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.pdb
+C:\C#\HashFunction\obj\Debug\net6.0\HashFunction.genruntimeconfig.cache
